@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.tentang{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 150px;
+    gap: 40px;
+}
+
+.foto{
+   
+   
+    
+    width: 500px;
+    height: 300px;
+}
+
+.text{
+    color: white;
+   
+}
+
+.text h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color: red;
+}
+
+.text p{
+    
+    width: 600px;
+}
+ 
+

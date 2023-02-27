@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.visi{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 100px;
+    gap: 40px;
+}
+
+.visi img{
+   
+   
+    
+    width: 400px;
+    height: 200px;
+}
+
+.text4{
+    color: white;
+   
+}
+
+.text4 h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color: red;
+}
+
+.text4 p{
+    
+    width: 550px;
+}
+ 
+

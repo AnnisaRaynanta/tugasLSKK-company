@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sejarah{
+    margin-top: 70px;
+    margin-left: 100px;
+   
+}
+
+.sejarah h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.textaja{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.textaja p{
+    width: 600px;
+    color: white;
+    margin-top: 20px;
+}
+.sejarah button{
+    
+    margin-left: 550px;
+    width: 150px;
+    height: 35px;
+    border-radius: 30px;
+    color: white;
+    background-color: red;
+}

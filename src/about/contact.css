@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contact{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 300px;
+    
+}
+
+
+.dua{
+    display: flex;
+    flex-direction: row;
+}
+
+.dua img{
+    width: 70px;
+    height: 70px;
+}
+
+.tiga{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+    width: 320px;
+    /* border: 1px solid white; */
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.dua>h4{
+    color: white;
+    margin-top: 20px;
+}
+p{
+    color: white;
+    
+}
+
+.satu>p{
+    font-size: 13px;
+}
+
+.tiga>p>button{
+    width: 70px;
+    /* margin-left: 870px; */
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    font-size: 11px;
+    margin-left: 10px;
+    margin-top: 5px;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.misi{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: 300px;
+    gap: 40px;
+}
+
+.misi img{
+   width: 400px;
+    height: 200px;
+}
+
+.text5{
+    color: white;
+   
+}
+
+.text5 h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color: red;
+}
+
+.text5 ol{
+    
+    width: 500px;
+}
+ 
+

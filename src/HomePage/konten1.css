@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.konten2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.konten2 img{
+    width: 350px;
+    height: 200px;
+}
+
+.konten3 {
+ 
+    width: 600px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.konten3>button{
+    width: 150px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+}
+
+.konten3>h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
